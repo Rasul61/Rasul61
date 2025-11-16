@@ -42,11 +42,11 @@ Currently improving my skills through real-world projects and continuous learnin
 
 ## 📫 Contact & Social Media
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/rasul-karimov-51b312323" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
+  &nbsp;&nbsp;
   <a href="mailto:kerimovrasul61@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -58,7 +58,6 @@ Currently improving my skills through real-world projects and continuous learnin
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RasulKarimov&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RasulKarimov&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 ---
