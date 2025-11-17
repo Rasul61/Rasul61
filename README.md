@@ -27,15 +27,15 @@ Currently improving my skills through real-world projects and continuous learnin
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" />
 </p>
 
-- **Java**
-- **Spring Boot**
-- **Spring Security**
-- **REST API**
-- **Maven / Gradle**
-- **PostgreSQL**
-- **MySQL**
-- **Docker**
-- **Hibernate / JPA**
+- **Java**  
+- **Spring Boot**  
+- **Spring Security**  
+- **REST API**  
+- **Maven / Gradle**  
+- **PostgreSQL**  
+- **MySQL**  
+- **Docker**  
+- **Hibernate / JPA**  
 - **Git**
 
 ---
@@ -50,14 +50,6 @@ Currently improving my skills through real-world projects and continuous learnin
   <a href="mailto:kerimovrasul61@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
----
-
-## 🔥 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RasulKarimov&show_icons=true&theme=tokyonight" height="165" />
 </p>
 
 ---
