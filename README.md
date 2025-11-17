@@ -25,6 +25,12 @@ Currently improving my skills through real-world projects and continuous learnin
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" />
+
+  <!-- Postman -->
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" />
+
+  <!-- Swagger -->
+  <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" width="45" />
 </p>
 
 - **Java**  
@@ -37,6 +43,8 @@ Currently improving my skills through real-world projects and continuous learnin
 - **Docker**  
 - **Hibernate / JPA**  
 - **Git**
+- **Postman**
+- **Swagger / OpenAPI**
 
 ---
 
