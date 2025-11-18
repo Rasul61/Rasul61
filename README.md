@@ -34,8 +34,7 @@ Currently improving my skills through real-world projects and continuous learnin
 </p>
 
 - **Java**  
-- **Spring Boot**  
-- **Spring Security**  
+- **Spring Boot**   
 - **REST API**  
 - **Maven / Gradle**  
 - **PostgreSQL**  
